@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "coffeescript": "^2.2.2",
-    "excel4node": "^1.7.1",
+    "excel4node": "^1.8.0",
     "hubot": "3",
     "hubot-memegeneration": "^3.0.0",
     "hubot-rocketchat": "rocketchat/hubot-rocketchat"
